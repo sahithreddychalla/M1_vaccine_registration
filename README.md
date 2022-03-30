@@ -3,8 +3,7 @@
 ## About the code
 | Code quality score | Code grade |  
 | --- | --- | 
-
-| https://api.codiga.io/project/32240/score/svg | | https://api.codiga.io/project/32240/status/svg |
+| https://api.codiga.io/project/32240/score/svg | https://api.codiga.io/project/32240/status/svg |
 ## Aim
 * Smoother vaccination registration process
 * Reduced data traffic in the main server
