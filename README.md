@@ -7,19 +7,5 @@
 | code grade |
 |![image](https://user-images.githubusercontent.com/101469832/160890957-263a2350-062b-444f-80ac-3b5e0bbaab7b.png)https://api.codiga.io/project/32240/status/svg |
 [![cppcheck-action](https://github.com/sahithreddychalla/M1_vaccine_registration/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/sahithreddychalla/M1_vaccine_registration/actions/workflows/c-cpp.yml)
+[![Analysis](https://github.com/sahithreddychalla/M1_vaccine_registration/actions/workflows/Analysis.yml/badge.svg)](https://github.com/sahithreddychalla/M1_vaccine_registration/actions/workflows/Analysis.yml)
 
-## Aim
-* Smoother vaccination registration process
-* Reduced data traffic in the main server
-* Operation of registration and verification is localized
-## Input
-* Pre-registered list of patients for vaccination
-* New registration of patients for vaccination
-## Process
-* Pre registered patients who had appointments verify the documents
-* Verification is done with pre registered data of patients
-* New registrations are added to the vaccinated log
-* Total number of vaccine vials consumed is tracked for both type of vaccines
-## Output
-* Vaccinated data log is updated and new registrations are added to the end of the pre data list
-* List of vaccinated patients along with total vials consumed is printed
